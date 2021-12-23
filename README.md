@@ -1,4 +1,5 @@
 # API de vagas
+## Projeto utilizando NodeJS com framework express.
 ### Classes
 Foram criadas três classes sendo elas:
 - Usuário
